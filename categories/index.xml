@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on VJ-Data Science</title>
+    <link>https://vj-yadav.github.io/VJ-Portfolio_Website/categories/</link>
+    <description>Recent content in Categories on VJ-Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vj-yadav.github.io/VJ-Portfolio_Website/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

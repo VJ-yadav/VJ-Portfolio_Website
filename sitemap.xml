@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/</loc>
+    <lastmod>2020-05-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/post/market_basket/</loc>
+    <lastmod>2020-05-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/post/salary_prediction/</loc>
+    <lastmod>2020-02-15T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/post/customer_segmentation/</loc>
+    <lastmod>2020-01-22T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://vj-yadav.github.io/VJ-Portfolio_Website/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
